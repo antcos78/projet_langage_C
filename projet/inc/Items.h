@@ -15,6 +15,7 @@ class Items{
 private:
   string nom;
   char type;
+  
   char nbPorts;
 
 public:
