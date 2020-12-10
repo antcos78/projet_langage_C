@@ -7,7 +7,7 @@ int main() {
   char tab[256];
   char a;
   int i = 0;
-  int b;
+  int b; 
   int d;
   ifstream monFlux("/Users/leomichel/Desktop/Phelma_2A/Projet_info/Projet_C/MUX.gv");
 
